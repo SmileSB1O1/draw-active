@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-0" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-70" y="10" width="1980" height="1580" as="geometry" />
+          <mxGeometry x="-70" y="10" width="1920" height="1580" as="geometry" />
         </mxCell>
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-1" value="&lt;span style=&quot;font-weight: 400; text-wrap-mode: wrap;&quot;&gt;GlobalPendingGuard&lt;/span&gt;" style="swimlane;startSize=20;html=1;" vertex="1" parent="DhYTxKs9uFXzOIIwbpoh-0">
           <mxGeometry y="20" width="250" height="1560" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="35" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-76" value="My Companies Page" style="swimlane;startSize=20;html=1;" vertex="1" parent="DhYTxKs9uFXzOIIwbpoh-0">
-          <mxGeometry x="1020" y="20" width="230" height="1560" as="geometry" />
+          <mxGeometry x="1020" y="20" width="240" height="1560" as="geometry" />
         </mxCell>
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DhYTxKs9uFXzOIIwbpoh-76" source="DhYTxKs9uFXzOIIwbpoh-80" target="DhYTxKs9uFXzOIIwbpoh-83">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +121,10 @@
           <mxGeometry x="50" y="1160" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-88" value="Other Portal Page" style="swimlane;startSize=20;html=1;" vertex="1" parent="DhYTxKs9uFXzOIIwbpoh-0">
-          <mxGeometry x="1250" y="20" width="380" height="1560" as="geometry" />
+          <mxGeometry x="1260" y="20" width="310" height="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="DhYTxKs9uFXzOIIwbpoh-113" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="DhYTxKs9uFXzOIIwbpoh-88">
+          <mxGeometry x="95" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DhYTxKs9uFXzOIIwbpoh-0" source="DhYTxKs9uFXzOIIwbpoh-6" target="WIyWlLk6GJQsqaUBKTNV-10">
           <mxGeometry relative="1" as="geometry" />
@@ -187,7 +190,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-106" value="Other Portal Page" style="swimlane;startSize=20;html=1;" vertex="1" parent="DhYTxKs9uFXzOIIwbpoh-0">
-          <mxGeometry x="1630" y="20" width="350" height="1560" as="geometry" />
+          <mxGeometry x="1570" y="20" width="350" height="1560" as="geometry" />
         </mxCell>
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DhYTxKs9uFXzOIIwbpoh-106" source="DhYTxKs9uFXzOIIwbpoh-99" target="DhYTxKs9uFXzOIIwbpoh-101">
           <mxGeometry relative="1" as="geometry" />
@@ -211,6 +214,9 @@
         </mxCell>
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-95" value="Navigate to other Inner Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DhYTxKs9uFXzOIIwbpoh-106">
           <mxGeometry x="115" y="945" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DhYTxKs9uFXzOIIwbpoh-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DhYTxKs9uFXzOIIwbpoh-0" source="DhYTxKs9uFXzOIIwbpoh-80" target="DhYTxKs9uFXzOIIwbpoh-113">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
