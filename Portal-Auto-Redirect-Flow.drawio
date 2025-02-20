@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="zBtAvuP8c3fkPAvaUFku-0" value="Portal Auto Redirect Flow" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="20" width="1490" height="1760" as="geometry" />
+          <mxGeometry x="120" y="20" width="1540" height="1760" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-1" value="Access Token Guard" style="swimlane;startSize=20;html=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-0">
           <mxGeometry y="20" width="250" height="1740" as="geometry" />
@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-23" value="External Service Page" style="swimlane;startSize=20;html=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-0">
-          <mxGeometry x="920" y="20" width="200" height="1740" as="geometry" />
+          <mxGeometry x="920" y="20" width="250" height="1740" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zBtAvuP8c3fkPAvaUFku-23" source="zBtAvuP8c3fkPAvaUFku-28" target="zBtAvuP8c3fkPAvaUFku-47">
           <mxGeometry relative="1" as="geometry" />
@@ -144,7 +144,7 @@
           <mxGeometry x="40" y="402" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-32" value="Set External Route Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-23">
-          <mxGeometry x="25" y="1589" width="150" height="60" as="geometry" />
+          <mxGeometry x="50" y="1630" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zBtAvuP8c3fkPAvaUFku-23" source="zBtAvuP8c3fkPAvaUFku-46" target="zBtAvuP8c3fkPAvaUFku-50">
           <mxGeometry relative="1" as="geometry" />
@@ -165,22 +165,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-64" value="Find Company Through My ComPanies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-23">
-          <mxGeometry x="35" y="1479" width="140" height="60" as="geometry" />
+          <mxGeometry x="55" y="1479" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-74" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zBtAvuP8c3fkPAvaUFku-23" source="zBtAvuP8c3fkPAvaUFku-68" target="zBtAvuP8c3fkPAvaUFku-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-68" value="Company Existed ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-23">
-          <mxGeometry x="62.5" y="1329" width="85" height="90" as="geometry" />
+          <mxGeometry x="82.5" y="1329" width="85" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-76" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zBtAvuP8c3fkPAvaUFku-23" source="zBtAvuP8c3fkPAvaUFku-73" target="zBtAvuP8c3fkPAvaUFku-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-73" value="Navigate Path Start With Product ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-23">
-          <mxGeometry x="20.630000000000003" y="1129" width="168.75" height="130" as="geometry" />
+          <mxGeometry x="40.63" y="1129" width="168.75" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-75" value="Page Path Validate Pass ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-23">
-          <mxGeometry x="38.75" y="830" width="132.51" height="120" as="geometry" />
+          <mxGeometry x="58.75" y="830" width="132.51" height="120" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zBtAvuP8c3fkPAvaUFku-0" source="zBtAvuP8c3fkPAvaUFku-50" target="zBtAvuP8c3fkPAvaUFku-53">
           <mxGeometry relative="1" as="geometry">
@@ -290,7 +290,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-54" value="Companies Epic" style="swimlane;startSize=20;html=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-0">
-          <mxGeometry x="1120" y="20" width="370" height="1740" as="geometry" />
+          <mxGeometry x="1170" y="20" width="370" height="1740" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-81" value="Fetch My Companies Success" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-54">
           <mxGeometry x="12.5" y="1479" width="175" height="60" as="geometry" />
