@@ -71,8 +71,14 @@
         <mxCell id="zBtAvuP8c3fkPAvaUFku-20" value="Fetch Subscriptions&lt;br&gt;Fetch My Companies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-16">
           <mxGeometry x="40" y="535" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zBtAvuP8c3fkPAvaUFku-36" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="zBtAvuP8c3fkPAvaUFku-16" source="zBtAvuP8c3fkPAvaUFku-21" target="zBtAvuP8c3fkPAvaUFku-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-21" value="Have Valid External Company ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-16">
           <mxGeometry x="30" y="320" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zBtAvuP8c3fkPAvaUFku-35" value="Only One Company?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-16">
+          <mxGeometry x="55" y="130" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zBtAvuP8c3fkPAvaUFku-23" value="External Service Page" style="swimlane;startSize=20;html=1;" vertex="1" parent="zBtAvuP8c3fkPAvaUFku-0">
           <mxGeometry x="800" y="20" width="200" height="1120" as="geometry" />
