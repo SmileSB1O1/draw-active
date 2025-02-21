@@ -122,8 +122,8 @@
         <mxCell id="WcigGUKNCIJ_AjFXh1XC-0" value="External Navigate Service Valid Company Check Logic" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="10" width="510" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zfgZk5Pou1wQEIho9sZc-4" value="You can expand this logic by add new page root path to check" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-140" y="540" width="190" height="60" as="geometry" />
+        <mxCell id="zfgZk5Pou1wQEIho9sZc-4" value="You can expand this logic by add new page root path to check&lt;br&gt;&lt;br&gt;&lt;b&gt;Code Refer:&lt;/b&gt;&amp;nbsp;External Navigate Service&amp;nbsp;&lt;span style=&quot;color: rgb(138, 177, 176); background-color: rgb(34, 26, 15); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre;&quot;&gt;isCompanyValid&lt;/span&gt;&amp;nbsp;Method" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-230" y="525" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zfgZk5Pou1wQEIho9sZc-12" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=1 1;shadow=1;endArrow=classic;startFill=0;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UGZzJcblzEoREbLi4SqR-0" target="zfgZk5Pou1wQEIho9sZc-4">
           <mxGeometry width="80" relative="1" as="geometry">
