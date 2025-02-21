@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="DhYTxKs9uFXzOIIwbpoh-0" value="Portal Login Flow" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="DhYTxKs9uFXzOIIwbpoh-0" value="Portal Login Flow(Special Color is Auto Redirect Logic)" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-70" y="10" width="1850" height="1580" as="geometry" />
         </mxCell>
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-1" value="&lt;span style=&quot;font-weight: 400; text-wrap-mode: wrap;&quot;&gt;GlobalPendingGuard&lt;/span&gt;" style="swimlane;startSize=20;html=1;" parent="DhYTxKs9uFXzOIIwbpoh-0" vertex="1">
@@ -114,7 +114,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DhYTxKs9uFXzOIIwbpoh-83" value="Have Valid External Company" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="DhYTxKs9uFXzOIIwbpoh-76" vertex="1">
+        <mxCell id="DhYTxKs9uFXzOIIwbpoh-83" value="Have Valid External Company" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#FF9C3A;strokeColor=#d79b00;" parent="DhYTxKs9uFXzOIIwbpoh-76" vertex="1">
           <mxGeometry x="20" y="890" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-85" value="Only One Company" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="DhYTxKs9uFXzOIIwbpoh-76" vertex="1">
@@ -131,10 +131,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DhYTxKs9uFXzOIIwbpoh-116" value="Have Valid Company Or Only One Company" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="DhYTxKs9uFXzOIIwbpoh-88" vertex="1">
+        <mxCell id="DhYTxKs9uFXzOIIwbpoh-116" value="&lt;font style=&quot;color: rgb(255, 156, 58);&quot;&gt;Have Valid Company&lt;/font&gt; Or Only One Company" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="DhYTxKs9uFXzOIIwbpoh-88" vertex="1">
           <mxGeometry x="45" y="695" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="DhYTxKs9uFXzOIIwbpoh-118" value="Select Valid Company Or Only Company" style="whiteSpace=wrap;html=1;rounded=1;" parent="DhYTxKs9uFXzOIIwbpoh-88" vertex="1">
+        <mxCell id="DhYTxKs9uFXzOIIwbpoh-118" value="Select &lt;font style=&quot;color: rgb(255, 156, 58);&quot;&gt;Valid Company&lt;/font&gt; Or Only Company" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="DhYTxKs9uFXzOIIwbpoh-88" vertex="1">
           <mxGeometry x="60" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="DhYTxKs9uFXzOIIwbpoh-0" source="DhYTxKs9uFXzOIIwbpoh-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
@@ -223,7 +223,7 @@
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-104" value="Dashboard Page" style="whiteSpace=wrap;html=1;rounded=1;" parent="DhYTxKs9uFXzOIIwbpoh-106" vertex="1">
           <mxGeometry x="200" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DhYTxKs9uFXzOIIwbpoh-95" value="Navigate to other Inner Page" style="rounded=1;whiteSpace=wrap;html=1;" parent="DhYTxKs9uFXzOIIwbpoh-106" vertex="1">
+        <mxCell id="DhYTxKs9uFXzOIIwbpoh-95" value="Navigate to other Inner Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9C3A;strokeColor=#d79b00;" parent="DhYTxKs9uFXzOIIwbpoh-106" vertex="1">
           <mxGeometry x="115" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DhYTxKs9uFXzOIIwbpoh-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="DhYTxKs9uFXzOIIwbpoh-0" source="DhYTxKs9uFXzOIIwbpoh-80" target="DhYTxKs9uFXzOIIwbpoh-116" edge="1">
