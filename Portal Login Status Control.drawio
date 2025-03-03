@@ -262,8 +262,8 @@
         <mxCell id="7M6Ktfc9YNMzdn7Puqao-84" value="Change Footer Visibility" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="7M6Ktfc9YNMzdn7Puqao-5">
           <mxGeometry x="335" y="1430" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7M6Ktfc9YNMzdn7Puqao-86" value="Track Logout Timer" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="7M6Ktfc9YNMzdn7Puqao-5">
-          <mxGeometry x="350" y="1570" width="120" height="60" as="geometry" />
+        <mxCell id="7M6Ktfc9YNMzdn7Puqao-86" value="Enable Track Logout Timer" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="7M6Ktfc9YNMzdn7Puqao-5">
+          <mxGeometry x="330" y="1570" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7M6Ktfc9YNMzdn7Puqao-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7M6Ktfc9YNMzdn7Puqao-2" source="7M6Ktfc9YNMzdn7Puqao-86" target="7M6Ktfc9YNMzdn7Puqao-15">
           <mxGeometry relative="1" as="geometry">
