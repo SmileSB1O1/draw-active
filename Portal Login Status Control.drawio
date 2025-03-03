@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="S4MQcqyGjKnAV-RhAmHz">
-    <mxGraphModel dx="1380" dy="1758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="690" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="690" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7M6Ktfc9YNMzdn7Puqao-2" value="Login Status Control" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-30" width="1420" height="1790" as="geometry" />
+          <mxGeometry x="40" y="-30" width="1420" height="1920" as="geometry" />
         </mxCell>
         <mxCell id="7M6Ktfc9YNMzdn7Puqao-3" value="Session Epics" style="swimlane;startSize=20;html=1;" vertex="1" parent="7M6Ktfc9YNMzdn7Puqao-2">
-          <mxGeometry y="20" width="440" height="1770" as="geometry" />
+          <mxGeometry y="20" width="440" height="1900" as="geometry" />
         </mxCell>
         <mxCell id="7M6Ktfc9YNMzdn7Puqao-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7M6Ktfc9YNMzdn7Puqao-3" source="7M6Ktfc9YNMzdn7Puqao-1" target="7M6Ktfc9YNMzdn7Puqao-6">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="185" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7M6Ktfc9YNMzdn7Puqao-4" value="Session Reducer" style="swimlane;startSize=20;html=1;" vertex="1" parent="7M6Ktfc9YNMzdn7Puqao-2">
-          <mxGeometry x="440" y="20" width="390" height="1770" as="geometry" />
+          <mxGeometry x="440" y="20" width="390" height="1900" as="geometry" />
         </mxCell>
         <mxCell id="7M6Ktfc9YNMzdn7Puqao-8" value="set isPending false" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="7M6Ktfc9YNMzdn7Puqao-4">
           <mxGeometry x="40" y="185" width="120" height="60" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7M6Ktfc9YNMzdn7Puqao-5" value="Auto Logout Service" style="swimlane;startSize=20;html=1;" vertex="1" parent="7M6Ktfc9YNMzdn7Puqao-2">
-          <mxGeometry x="830" y="20" width="590" height="1770" as="geometry" />
+          <mxGeometry x="830" y="20" width="590" height="1900" as="geometry" />
         </mxCell>
         <mxCell id="7M6Ktfc9YNMzdn7Puqao-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7M6Ktfc9YNMzdn7Puqao-5" source="7M6Ktfc9YNMzdn7Puqao-55" target="7M6Ktfc9YNMzdn7Puqao-56">
           <mxGeometry relative="1" as="geometry" />
@@ -239,8 +239,37 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7M6Ktfc9YNMzdn7Puqao-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7M6Ktfc9YNMzdn7Puqao-5" source="7M6Ktfc9YNMzdn7Puqao-77" target="7M6Ktfc9YNMzdn7Puqao-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7M6Ktfc9YNMzdn7Puqao-83" value="no any trigger fired after 60s" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7M6Ktfc9YNMzdn7Puqao-82">
+          <mxGeometry x="-0.4778" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7M6Ktfc9YNMzdn7Puqao-77" value="start timer (per 60s)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="7M6Ktfc9YNMzdn7Puqao-5">
           <mxGeometry x="350" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7M6Ktfc9YNMzdn7Puqao-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7M6Ktfc9YNMzdn7Puqao-5" source="7M6Ktfc9YNMzdn7Puqao-81" target="7M6Ktfc9YNMzdn7Puqao-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7M6Ktfc9YNMzdn7Puqao-81" value="Change Header Visibility" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="7M6Ktfc9YNMzdn7Puqao-5">
+          <mxGeometry x="335" y="1290" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7M6Ktfc9YNMzdn7Puqao-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7M6Ktfc9YNMzdn7Puqao-5" source="7M6Ktfc9YNMzdn7Puqao-84" target="7M6Ktfc9YNMzdn7Puqao-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7M6Ktfc9YNMzdn7Puqao-84" value="Change Footer Visibility" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="7M6Ktfc9YNMzdn7Puqao-5">
+          <mxGeometry x="335" y="1430" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7M6Ktfc9YNMzdn7Puqao-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7M6Ktfc9YNMzdn7Puqao-5" source="7M6Ktfc9YNMzdn7Puqao-86" target="7M6Ktfc9YNMzdn7Puqao-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7M6Ktfc9YNMzdn7Puqao-86" value="Track Logout Timer" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="7M6Ktfc9YNMzdn7Puqao-5">
+          <mxGeometry x="350" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7M6Ktfc9YNMzdn7Puqao-88" value="Logout User By timeout" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="7M6Ktfc9YNMzdn7Puqao-5">
+          <mxGeometry x="335" y="1710" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
