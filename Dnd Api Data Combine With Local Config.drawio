@@ -177,7 +177,7 @@
             <mxPoint x="800" y="891" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhZ-suriOUgytLzJm29E-39" value="Have Next Col" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rhZ-suriOUgytLzJm29E-39" value="Have Next Col Config" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="1210" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rhZ-suriOUgytLzJm29E-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rhZ-suriOUgytLzJm29E-45" target="rhZ-suriOUgytLzJm29E-46">
