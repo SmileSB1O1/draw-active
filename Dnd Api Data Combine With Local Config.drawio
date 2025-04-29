@@ -41,8 +41,8 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Create Dnd Cols Config&lt;div&gt;by local default config&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="420" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Create Dnd Cols Config&lt;div&gt;by local default config&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="300" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rhZ-suriOUgytLzJm29E-0" value="Get&amp;nbsp;&lt;span style=&quot;color: rgb(25, 29, 23); font-family: system-ui, sans-serif; text-align: start; background-color: rgb(250, 253, 244);&quot;&gt;customization&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
