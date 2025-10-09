@@ -93,7 +93,7 @@
           <mxGeometry x="440" y="1120" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qK-BRQw-bgLw_rElPG87-26" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;With CSV&lt;/h1&gt;&lt;p&gt;src/services/i18n/import/config.js (use this to config how to parse csv)&lt;br&gt;&lt;br&gt;src/services/i18n/import/config.js (use this to config how to import csv)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="840" width="360" height="130" as="geometry" />
+          <mxGeometry x="430" y="840" width="390" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
