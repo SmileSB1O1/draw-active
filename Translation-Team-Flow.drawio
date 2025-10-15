@@ -4,16 +4,11 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="rQeRQsM_AcNqX124Q-Ns-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQeRQsM_AcNqX124Q-Ns-0" target="rQeRQsM_AcNqX124Q-Ns-1">
+        <mxCell id="rQeRQsM_AcNqX124Q-Ns-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQeRQsM_AcNqX124Q-Ns-0" target="rQeRQsM_AcNqX124Q-Ns-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rQeRQsM_AcNqX124Q-Ns-10" value="Give to 3rd team when dev team done" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rQeRQsM_AcNqX124Q-Ns-5">
-          <mxGeometry x="-0.2286" relative="1" as="geometry">
-            <mxPoint x="105" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rQeRQsM_AcNqX124Q-Ns-0" value="Dev Team extracts source texts" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="125" y="170" width="190" height="40" as="geometry" />
+          <mxGeometry x="125" y="60" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rQeRQsM_AcNqX124Q-Ns-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQeRQsM_AcNqX124Q-Ns-1" target="rQeRQsM_AcNqX124Q-Ns-2">
           <mxGeometry relative="1" as="geometry" />
@@ -24,16 +19,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rQeRQsM_AcNqX124Q-Ns-1" value="3rd-Translation Team translate to other languages" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="75" y="260" width="290" height="40" as="geometry" />
+          <mxGeometry x="75" y="220" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rQeRQsM_AcNqX124Q-Ns-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQeRQsM_AcNqX124Q-Ns-2" target="rQeRQsM_AcNqX124Q-Ns-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rQeRQsM_AcNqX124Q-Ns-2" value="Upload translated texts into crowdin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="132.5" y="360" width="175" height="40" as="geometry" />
+          <mxGeometry x="132.5" y="310" width="175" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rQeRQsM_AcNqX124Q-Ns-7" value="Translate Applied&lt;br&gt;Re-enter XVI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="460" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rQeRQsM_AcNqX124Q-Ns-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rQeRQsM_AcNqX124Q-Ns-13" target="rQeRQsM_AcNqX124Q-Ns-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQeRQsM_AcNqX124Q-Ns-13" value="Upload source texts into crowdin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="138.44" y="140" width="163.12" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
