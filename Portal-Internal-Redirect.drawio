@@ -8,13 +8,13 @@
           <mxGeometry height="320" width="400" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-4" parent="YOyhUN0sNigATVaifcKs-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="1. User triggers action&#xa;(Click &#39;Mapping By DM&#39; button)" vertex="1">
-          <mxGeometry height="60" width="180" x="20" y="40" as="geometry" />
+          <mxGeometry height="60" width="180" x="30" y="30" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-5" parent="YOyhUN0sNigATVaifcKs-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="2. Call postMessageService.sendMessage&#xa;(&#39;INTERNAL_REDIRECT&#39;, &#39;&#39;, payload)" vertex="1">
-          <mxGeometry height="60" width="220" x="20" y="120" as="geometry" />
+          <mxGeometry height="60" width="220" x="10" y="120" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-6" parent="YOyhUN0sNigATVaifcKs-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="3. Build IIframeMessageType&#xa;{msg_type, payload, platform, timestamp}" vertex="1">
-          <mxGeometry height="60" width="220" x="20" y="200" as="geometry" />
+          <mxGeometry height="60" width="220" x="10" y="200" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-7" parent="YOyhUN0sNigATVaifcKs-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="4. parent.postMessage(message, &#39;*&#39;)" vertex="1">
           <mxGeometry height="30" width="200" x="20" y="280" as="geometry" />
@@ -41,16 +41,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-15" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" value="Portal (Parent Window - XPRT)" vertex="1">
-          <mxGeometry height="200" width="280" x="480" y="40" as="geometry" />
+          <mxGeometry height="250" width="280" x="480" y="40" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-16" parent="YOyhUN0sNigATVaifcKs-15" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="5. Receive postMessage event" vertex="1">
           <mxGeometry height="40" width="240" x="20" y="40" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-17" parent="YOyhUN0sNigATVaifcKs-15" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="6. Parse message &amp; extract URL&#xa;Navigate to target iframe" vertex="1">
-          <mxGeometry height="40" width="240" x="20" y="100" as="geometry" />
+          <mxGeometry height="40" width="240" x="20" y="105" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-18" parent="YOyhUN0sNigATVaifcKs-15" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="7. Store pageInitData for target app" vertex="1">
-          <mxGeometry height="40" width="240" x="20" y="150" as="geometry" />
+          <mxGeometry height="40" width="240" x="20" y="170" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-19" edge="1" parent="YOyhUN0sNigATVaifcKs-15" source="YOyhUN0sNigATVaifcKs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YOyhUN0sNigATVaifcKs-17">
           <mxGeometry relative="1" as="geometry" />
