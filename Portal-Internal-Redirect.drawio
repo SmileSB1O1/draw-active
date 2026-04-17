@@ -59,25 +59,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-21" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=14;" value="Target App (XDM - iframe-mode.component)" vertex="1">
-          <mxGeometry height="420" width="360" x="800" y="40" as="geometry" />
+          <mxGeometry height="450" width="360" x="800" y="10" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-22" parent="YOyhUN0sNigATVaifcKs-21" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="8. iframe-mode.component loads" vertex="1">
-          <mxGeometry height="40" width="200" x="20" y="40" as="geometry" />
+          <mxGeometry height="40" width="200" x="30" y="30" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-23" parent="YOyhUN0sNigATVaifcKs-21" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="Has accessToken in URL?" vertex="1">
-          <mxGeometry height="60" width="120" x="60" y="100" as="geometry" />
+          <mxGeometry height="60" width="120" x="70" y="90" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-24" parent="YOyhUN0sNigATVaifcKs-21" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="9. xprtDataActions.getPageInitData()" vertex="1">
-          <mxGeometry height="40" width="200" x="20" y="180" as="geometry" />
+          <mxGeometry height="40" width="200" x="30" y="180" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-25" parent="YOyhUN0sNigATVaifcKs-21" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="10. sendMessage(&#39;GET_PAGE_INIT_DATA&#39;)" vertex="1">
-          <mxGeometry height="40" width="220" x="20" y="240" as="geometry" />
+          <mxGeometry height="40" width="220" x="20" y="250" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-26" parent="YOyhUN0sNigATVaifcKs-21" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="11. Portal returns pageInitData&#xa;processPostMessage handles&#xa;GET_PAGE_INIT_DATA_SUCCESS" vertex="1">
-          <mxGeometry height="50" width="220" x="20" y="300" as="geometry" />
+          <mxGeometry height="50" width="220" x="20" y="310" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-27" parent="YOyhUN0sNigATVaifcKs-21" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="12. sessionActions.setIframePageInitData&#xa;Data stored in Redux state" vertex="1">
-          <mxGeometry height="40" width="220" x="20" y="370" as="geometry" />
+          <mxGeometry height="40" width="220" x="20" y="390" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-28" edge="1" parent="YOyhUN0sNigATVaifcKs-21" source="YOyhUN0sNigATVaifcKs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YOyhUN0sNigATVaifcKs-23">
           <mxGeometry relative="1" as="geometry" />
