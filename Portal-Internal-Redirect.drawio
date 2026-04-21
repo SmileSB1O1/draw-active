@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36">
   <diagram name="Internal Redirect Flow" id="2J3nkDJ7qeHvC5NDcAtH">
-    <mxGraphModel dx="1924" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="690" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="1258" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="690" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
           <mxGeometry height="40" width="140" x="445" y="100" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-42" parent="YOyhUN0sNigATVaifcKs-35" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="3. Check queryParams" vertex="1">
-          <mxGeometry height="40" width="140" x="445" y="200" as="geometry" />
+          <mxGeometry height="40" width="140" x="445" y="170" as="geometry" />
         </mxCell>
         <mxCell id="YOyhUN0sNigATVaifcKs-43" parent="YOyhUN0sNigATVaifcKs-35" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Return value" vertex="1">
           <mxGeometry height="40" width="100" x="645" y="100" as="geometry" />
@@ -166,10 +166,10 @@
         <mxCell id="YOyhUN0sNigATVaifcKs-51" edge="1" parent="YOyhUN0sNigATVaifcKs-35" source="YOyhUN0sNigATVaifcKs-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YOyhUN0sNigATVaifcKs-43" value="Found">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YOyhUN0sNigATVaifcKs-52" edge="1" parent="YOyhUN0sNigATVaifcKs-35" source="YOyhUN0sNigATVaifcKs-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="YOyhUN0sNigATVaifcKs-43" value="Found">
+        <mxCell id="YOyhUN0sNigATVaifcKs-52" edge="1" parent="YOyhUN0sNigATVaifcKs-35" source="YOyhUN0sNigATVaifcKs-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="YOyhUN0sNigATVaifcKs-43" value="Found">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="635" y="220" />
+              <mxPoint x="635" y="190" />
               <mxPoint x="635" y="170" />
               <mxPoint x="695" y="170" />
             </Array>
